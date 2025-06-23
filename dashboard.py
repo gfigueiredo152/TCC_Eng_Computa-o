@@ -13,7 +13,7 @@ def conectar_banco():
         host="localhost",
         database="TCC",
         user="postgres",
-        password="Gt@240396"
+        password="***********"
     )
 
 # ------------------ CONSULTA AOS DADOS ------------------
