@@ -6,8 +6,8 @@
 #include <HTTPClient.h>
 
 // ----------------- REDE WiFi -----------------
-const char* ssid = "NF_Casa_TpLink";
-const char* password = "br20001965";
+const char* ssid = "*******************";
+const char* password = "***********";
 const char* serverName = "http://192.168.0.107:3000/endpoint"; // Altere conforme o IP/porta do seu backend
 
 // ----------------- SENSOR MAX30102 -----------------
