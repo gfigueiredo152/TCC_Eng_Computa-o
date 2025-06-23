@@ -11,7 +11,7 @@ const client = new Client({
   host: 'localhost',  // Endereço do servidor PostgreSQL
   port: 5432,        // Porta do PostgreSQL
   user: 'postgres', // Seu usuário do PostgreSQL
-  password: 'Gt@240396', // Sua senha do PostgreSQL
+  password: '***********', // Sua senha do PostgreSQL
   database: 'TCC' // Nome do banco de dados
 });
 
